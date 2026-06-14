@@ -230,22 +230,6 @@ graph TB
 
 ---
 
-## 📸 Screenshots
-
-| Login | Student Dashboard |
-|-------|------------------|
-| ![Login](https://via.placeholder.com/600x400/0f172a/6366f1?text=CampusFlow+Login) | ![Dashboard](https://via.placeholder.com/600x400/0f172a/6366f1?text=Student+Dashboard) |
-
-| Notice Intelligence | Smart Scheduler |
-|---------------------|-----------------|
-| ![Notices](https://via.placeholder.com/600x400/0f172a/6366f1?text=AI+Notice+Summaries) | ![Scheduler](https://via.placeholder.com/600x400/0f172a/6366f1?text=Smart+Scheduling) |
-
-| Life Companion | Focus Zone |
-|----------------|------------|
-| ![Life](https://via.placeholder.com/600x400/0f172a/6366f1?text=Life+Companion) | ![Focus](https://via.placeholder.com/600x400/0f172a/6366f1?text=Focus+Zone) |
-
----
-
 ## 📡 API Overview
 
 ### Authentication
