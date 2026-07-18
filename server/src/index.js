@@ -76,7 +76,7 @@ app.use('/api/life-companion', lifeCompanionRouter);
 if (process.env.NODE_ENV === 'production') {
   console.log('Production mode enabled. Serving static client build assets...');
   app.use(express.static(path.resolve('public')));
-  app.get('*', (req, res) => {
+  app.get('*all', (req, res) => {
     res.sendFile(path.resolve('public', 'index.html'));
   });
 }
